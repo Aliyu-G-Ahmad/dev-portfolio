@@ -11,6 +11,7 @@ current track is **[choose later]**.
 | 6 | BauchiUtils | A 15-function utility library |
 | 7 | Student Records | An in-memory CRUD database |
 | 8 | This portfolio | Set up and configured this repo |
+| 9 | System-diagnostics | A node CLI that reports system info, with proper stdout/stderr separation |
 ## How to Reach Me
 - GitHub: [@Aliyu-G-Ahmad](https://github.com/Aliyu-G-Ahmad)
 - Email: aliyugahmad015@gmail.com
