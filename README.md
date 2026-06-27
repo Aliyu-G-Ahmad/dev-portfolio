@@ -4,7 +4,9 @@ Welcome! This is the home of every project I build during the UpliftHub Bootcamp
 beyond.
 ## About Me
 I'm based in Bauchi and learning software engineering through the UpliftHub Bootcamp. My
-current track is **[choose later]**.
+
+# - **Track:** Backend (Laravel). see [track-decision.md](./track-decision.md)
+
 ## Bootcamp Projects
 | Week | Project | Description |
 |------|---------|-------------|
