@@ -5,7 +5,7 @@ beyond.
 ## About Me
 I'm based in Bauchi and learning software engineering through the UpliftHub Bootcamp. My
 
-# - **Track:** Backend (Laravel). see [track-decision.md](./track-decision.md)
+# - **Track:** Frontend . see [track-decision.md](./track-decision.md)
 
 ## Bootcamp Projects
 | Week | Project | Description |
